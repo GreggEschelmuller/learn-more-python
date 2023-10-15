@@ -1,0 +1,3 @@
+This is a test file for the example script. first text!
+This is the second test script! I should be displayed after the first.
+This is the final text file!
